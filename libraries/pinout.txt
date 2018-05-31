@@ -1,0 +1,17 @@
+1  VCC [Fat wire 1]
+2  GND [Fat wire 2]
+3  RST A0
+4  NC
+5  NC
+6  STB 13
+7  DI 12
+8  CE 10
+9  D7 9
+10 D6 8
+11 D5 7
+12 D4 6
+13 D3 5
+14 D2 4
+15 D1 A1
+16 D0 A2
+17 RW A3
